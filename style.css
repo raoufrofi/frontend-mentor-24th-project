@@ -1,0 +1,10 @@
+.obser {
+  opacity: 1;
+  transform: translateX(0);
+  transition: opacity 1s, transform 1s;
+}
+
+.imgObser {
+  opacity: 1;
+  transition: opacity 2s;
+}
